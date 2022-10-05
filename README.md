@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif"/>
+  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="300"/>
   <p>Hello everyone, I hope you will find something useful in my repositories.</p>
 </div>
 
@@ -10,6 +10,17 @@
 -:man_student: I'm currently studying at Kubstu in the direction of computer science<br>
 -:computer: I’m currently learning .Net. My stack now it is C#, ASP.NET, Entity Framework, MSS.<br>
 -:desktop_computer: In my free time, work on pet projects that are interesting to me personally.<br>
+
+---
+
+Some stats:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Xodzi)](https://github.com/Xodzi/github-profile-trophy)
+
+[![codewars](https://www.codewars.com/users/xodzi/badges/small)](https://www.codewars.com/users/xodzi) 
+
+Soon there will be more cool things here!
+
 
 <!--
 **Xodzi/Xodzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
