@@ -1,9 +1,10 @@
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="300"/>
   <p>Hello everyone, I hope you will find something useful in my repositories.</p>
 </div>
-
+-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=18C032&multiline=true&repeat=false&width=435&height=80&lines=Hello+everyone%2C+;hope+you+will+find+something+useful+in+my+repositories.;in+my+repositories.)](https://git.io/typing-svg)
 ---
 
 ### :man_technologist: About Me :
@@ -18,6 +19,8 @@ Some stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Xodzi)](https://github.com/Xodzi/github-profile-trophy)
 
 [![codewars](https://www.codewars.com/users/xodzi/badges/small)](https://www.codewars.com/users/xodzi) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xodzi&layout=compact)](https://github.com/Xodzi/github-readme-stats)
 
 Soon there will be more cool things here!
 
