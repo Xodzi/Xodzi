@@ -7,9 +7,9 @@
 ---
 
 ### :man_technologist: About Me :
--:man_student: I'm currently studying at Kubstu in the direction of computer science<br>
--:computer: I’m currently learning .Net. My stack now it is C#, ASP.NET, Entity Framework, MSS.<br>
--:desktop_computer: In my free time, work on pet projects that are interesting to me personally.<br>
+-:man_student : I'm currently studying at Kubstu in the direction of computer science<br>
+-:computer : I’m currently learning .Net. My stack now it is C#, ASP.NET, Entity Framework, MSS.<br>
+-:desktop_computer : In my free time, work on pet projects that are interesting to me personally.<br>
 
 ---
 
