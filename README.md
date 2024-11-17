@@ -20,7 +20,17 @@ Some stats:
 
 [![codewars](https://www.codewars.com/users/xodzi/badges/small)](https://www.codewars.com/users/xodzi) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xodzi&layout=compact)](https://github.com/Xodzi/github-readme-stats)
+---
+
+Contacts:
+<div id="badges">
+  <a href="https://vk.com/prostochort">
+    <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/xodzi">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
 
 Soon there will be more cool things here!
 
